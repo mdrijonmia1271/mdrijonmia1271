@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad_Rijon</h1>
-<h3 align="center">A Junior Software Engineer From Bangladesh</h3>
+<h3 align="center">A Junior Software Engineer</h3>
+<h4 align="center">I'm from Bangladesh 🇧🇩 <h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrijonmia1271&label=Profile%20views&color=0e75b6&style=flat" alt="mdrijonmia1271" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrijonmia1271" alt="mdrijonmia1271" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrijonmia1271" alt="mdrijonmia1271" /></a> </p> -->
 
 - 🔭 I’m currently working on **E-COMMERCE SITE**
 
