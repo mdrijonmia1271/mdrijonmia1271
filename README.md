@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrijonmia1271" alt="mdrijonmia1271" /></a> </p>
 
+- 🔭 I’m currently working on **E-COMMERCE SITE**
+
+- 🌱 I’m currently learning **LARAVEL**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **mdrijonmia1271@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohosin-islam-rijon-833747200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohosin-islam-rijon-833747200/" height="30" width="40" /></a>
